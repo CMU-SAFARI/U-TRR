@@ -1,0 +1,57 @@
+{
+    "row_group" : [
+        {
+            "row_id" : 7925,
+            "bitflip_locs" : [
+                1458
+            ]
+        },
+        {
+            "row_id" : 7927,
+            "bitflip_locs" : [
+                11643
+            ]
+        }
+    ],
+    "bank_id" : 1,
+    "ret_ms" : 576,
+    "data_pattern_type" : 1
+}
+{
+    "row_group" : [
+        {
+            "row_id" : 11043,
+            "bitflip_locs" : [
+                3371
+            ]
+        },
+        {
+            "row_id" : 11045,
+            "bitflip_locs" : [
+                31601
+            ]
+        }
+    ],
+    "bank_id" : 1,
+    "ret_ms" : 576,
+    "data_pattern_type" : 1
+}
+{
+    "row_group" : [
+        {
+            "row_id" : 21040,
+            "bitflip_locs" : [
+                17340
+            ]
+        },
+        {
+            "row_id" : 21042,
+            "bitflip_locs" : [
+                60881
+            ]
+        }
+    ],
+    "bank_id" : 1,
+    "ret_ms" : 576,
+    "data_pattern_type" : 1
+}

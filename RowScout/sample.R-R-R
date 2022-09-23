@@ -1,0 +1,25 @@
+{
+    "row_group" : [
+        {
+            "row_id" : 21040,
+            "bitflip_locs" : [
+                17340
+            ]
+        },
+        {
+            "row_id" : 21042,
+            "bitflip_locs" : [
+                60881
+            ]
+        },
+        {
+            "row_id" : 21044,
+            "bitflip_locs" : [
+                43880
+            ]
+        }
+    ],
+    "bank_id" : 1,
+    "ret_ms" : 640,
+    "data_pattern_type" : 1
+}

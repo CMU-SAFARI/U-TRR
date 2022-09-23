@@ -1,0 +1,806 @@
+row_layout=RARAR
+--- END OF HEADER ---
+Iteration 0 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 1 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 2 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 3 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 4 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 5 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 6 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 7 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 8 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 9 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 10 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 11 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 12 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 13 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 14 bitflips:
+Victim row 21040: 1
+Victim row 21042: 0
+Victim row 21044: 0
+Iteration 15 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 16 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 17 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 18 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 19 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 20 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 21 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 22 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 23 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 24 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 25 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 26 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 27 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 28 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 29 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 30 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 31 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 32 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 33 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 34 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 35 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 36 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 37 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 38 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 39 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 40 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 41 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 42 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 43 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 44 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 45 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 46 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 47 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 48 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 49 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 50 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 51 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 52 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 53 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 54 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 55 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 56 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 57 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 58 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 59 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 60 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 61 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 62 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 63 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 64 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 65 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 66 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 67 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 68 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 69 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 70 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 71 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 72 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 73 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 74 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 75 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 76 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 77 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 78 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 79 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 80 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 81 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 82 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 83 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 84 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 85 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 86 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 87 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 88 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 89 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 90 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 91 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 92 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 93 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 94 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 95 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 96 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 97 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 98 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 99 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 100 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 101 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 102 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 103 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 104 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 105 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 106 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 107 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 108 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 109 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 110 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 111 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 112 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 113 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 114 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 115 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 116 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 117 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 118 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 119 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 120 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 121 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 122 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 123 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 124 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 125 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 126 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 127 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 128 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 129 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 130 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 131 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 132 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 133 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 134 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 135 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 136 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 137 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 138 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 139 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 140 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 141 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 142 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 143 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 144 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 145 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 146 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 147 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 148 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 149 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 150 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 151 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 152 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 153 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 154 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 155 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 156 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 157 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 158 bitflips:
+Victim row 21040: 1
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 159 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 160 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 161 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 162 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 163 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 164 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 165 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 166 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 167 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 168 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 169 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 170 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 171 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 172 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 173 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 174 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 175 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 176 bitflips:
+Victim row 21040: 0
+Victim row 21042: 1
+Victim row 21044: 0
+Iteration 177 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 178 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 179 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 180 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 181 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 182 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 183 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 184 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 185 bitflips:
+Victim row 21040: 1
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 186 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 187 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 188 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 189 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 190 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 191 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 192 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 193 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 194 bitflips:
+Victim row 21040: 0
+Victim row 21042: 0
+Victim row 21044: 1
+Iteration 195 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 196 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 197 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 198 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Iteration 199 bitflips:
+Victim row 21040: 1
+Victim row 21042: 1
+Victim row 21044: 1
+Total bitflips:
+Victim row 21040: 191
+Victim row 21042: 189
+Victim row 21044: 198
